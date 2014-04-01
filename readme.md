@@ -9,7 +9,7 @@ Description
 =====================
 
 WP Preloader will show a preloading screen for your website before all your images (including the images in CSS) are fully loaded.<br>
-Use `<?php php add_preloader(); ?>` after body tag To Show Preloader.<br>
+Use `<?php add_preloader(); ?>` after body tag To Show Preloader.<br>
 Demo: http://emart.com.bd/
 
 Installation
